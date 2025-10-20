@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Cybersecurity student
 ---------------------
+<img src="https://github.com/user-attachments/assets/8f3ba421-ba10-4f94-80b5-003d7692dd01" width="200px" alt="Cybersecurity gif" />
 
 ### Technologies and Tools
 <p align="left">
