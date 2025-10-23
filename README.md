@@ -6,7 +6,7 @@ I am a cybersecurity graduate student
 * 🖥️  See my portfolio at [MyPortfolio](http://)
 * ✉️  You can contact me at [panagiotistselentis@hotmail.com](mailto:panagiotistselentis@hotmail.com)
 
-<img align="right" src="https://github.com/user-attachments/assets/8f3ba421-ba10-4f94-80b5-003d7692dd01" width="250px" alt="Cybersecurity gif" />
+<img align="right" src="https://github.com/user-attachments/assets/8f3ba421-ba10-4f94-80b5-003d7692dd01" width="230px" alt="Cybersecurity gif" />
 
 ### Connect with me
 
