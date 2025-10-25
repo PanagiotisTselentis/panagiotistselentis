@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a cybersecurity graduate student
 ---------------------
-* 🖥️  See my portfolio at [MyPortfolio](https://panagiotistselentis.github.io/)
+* 🖥️  See my portfolio [here](https://panagiotistselentis.github.io/)
 * ✉️  You can contact me at [panagiotistselentis@hotmail.com](mailto:panagiotistselentis@hotmail.com)
 
 <img align="right" src="https://github.com/user-attachments/assets/8f3ba421-ba10-4f94-80b5-003d7692dd01" width="230px" alt="Cybersecurity gif" />
